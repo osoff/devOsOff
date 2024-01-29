@@ -20,6 +20,7 @@ function Contacts() {
         >
           Email
         </a>
+
         <a
           href={linksOutside.linkedin}
           className=" px-10 py-6 bg-gradient-to-r rounded-2xl from-[#0019ff] to-[#fa00ff]"
