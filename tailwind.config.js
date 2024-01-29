@@ -20,8 +20,8 @@ export default {
         dark: "#1e1f23",
       },
       backgroundImage: {
-        mainbg: "url('../public/mainPage.png')",
-        mainbgdark: "url('../public/mainPagedark.png')",
+        mainbg: "url('../public/img/mainPage.png')",
+        mainbgdark: "url('../public/img/mainPagedark.png')",
         avatar: "url('../public/img/ava.jpg')",
       },
     },
