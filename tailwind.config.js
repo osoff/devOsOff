@@ -22,7 +22,7 @@ export default {
       backgroundImage: {
         mainbg: "url('img/mainPage.png')",
         mainbgdark: "url('img/mainPagedark.png')",
-        avatar: "url('img/ava.jpg')",
+        avatar: "url('../public/img/ava.jpg')",
       },
     },
   },
