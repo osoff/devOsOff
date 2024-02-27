@@ -29,10 +29,13 @@ function Hero() {
                 <FaTelegram className="hover:text-mainblue" />
               </a>
             </div>
-            <div className="w-full flex flex-col gap-1 items-center cursor-pointer pb-5">
+            <a
+              className="w-full flex flex-col gap-1 items-center cursor-pointer pb-5"
+              href="/#about"
+            >
               <span className="text-mainblue ">More</span>
               <FaAngleDown />
-            </div>
+            </a>
           </div>
         </div>
         <Avatar />
